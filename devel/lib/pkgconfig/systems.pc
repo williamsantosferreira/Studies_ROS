@@ -1,0 +1,8 @@
+prefix=/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/devel
+
+Name: systems
+Description: Description of systems
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

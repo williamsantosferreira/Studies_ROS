@@ -1,0 +1,8 @@
+prefix=/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/install
+
+Name: testes
+Description: Description of testes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

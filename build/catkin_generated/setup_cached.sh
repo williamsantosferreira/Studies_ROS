@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/devel:$CMAKE_PREFIX_PATH"
-export PWD='/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/build'
+export LD_LIBRARY_PATH="/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export ROSLISP_PACKAGE_DIRECTORIES='/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/william/Área de Trabalho/Pasta Central/ROS Pastas/Studies_ROS/src:$ROS_PACKAGE_PATH"
